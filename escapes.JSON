@@ -1,0 +1,12 @@
+{
+    "escapes": [
+        {
+            "name": "Side Mount",
+            "description": "A position frequently encountered on the way to Knee Mount or Front Mount"
+        },
+        {
+            "name": "Front Mount",
+            "description": "A position frequently encountered on the way to Knee Mount or Front Mount"
+        }
+    ]
+}
