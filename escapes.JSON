@@ -1,19 +1,55 @@
 {
     "mount": [{
             "name": "Side Mount",
-            "description": "A position frequently encountered on the way to Knee Mount or Front Mount"
+            "description": "A position frequently encountered on the way to knee mount or front mount, also called side control. The grappler on top typically secures the bottom grappler with a cross-face. The other arm of the top grappler secures the hips of the bottom grappler with a pincher movement with the top grappler's elbow to the far hip of the bottom grappler and the top grappler's knee to the near hip of the bottom grappler.",
+            "escapes": [{
+                    "description": "The grappler in bottom position should brace the knee of their near leg against the hip of the top grappler. The opposite foot can then be used to move the body as parallel as possible with the body of the top grappler. As the bottom grappler makes space, he/she should bring the bracing knee and the elbow of the arm on the same side as the bracing knee closer and closer together. Finally, once the elbow and knee are together, the bottom grappler can use the other foot to push away from the top grappler and proceed to reguard.",
+                    "url": "https://www.youtube.com/watch?v=cuXq-k__9lQ"
+                },
+                {
+                    "description": "An counter-attack that can be used from the side mount position is the buggy choke. Reaching over the back of the top grappler, the bottom grappler grips his/her own leg to set-up the choke.",
+                    "url": "https://www.youtube.com/watch?v=eqbLCtADel8"
+                }
+            ]
+        },
+        {
+            "name": "Knee Mount",
+            "description": "A position frequently encountered on the way to front mount, also called knee-on-belly. The top grappler has one shin across the belly of the bottom grappler, the other leg planted on the ground.",
+            "escapes": [{
+                    "description": "One option is to push the foot of the pressuring leg into a deep half-guard.",
+                    "url": "https://www.youtube.com/watch?v=-Ivo9MAPUVo"
+                },
+                {
+                    "description": "A good attack from knee mount is to invert and attack the legs with a knee-bar submission (fast forward to 5:45)",
+                    "url": "https://www.youtube.com/watch?v=FlNu8bi54CE"
+                }
+            ]
+        },
+        {
+            "name": "Front Mount",
+            "description": "This position is often called the full mount or simply mount. The top grappler is past the bottom grappler's legs. The top grappler's legs have the bottom grappler trapped on either side and the top grappler sits on the bottom grappler's chest or side, pining the bottom grappler completely to the ground.",
+            "escapes": [{
+                    "description": "The classical way of escaping the mount.",
+                    "url": "https://www.youtube.com/watch?v=EMEueexp9zU"
+                },
+                {
+                    "description": "If the bottom grappler has the flexibility to invert, another option is to go for an ankle lock.",
+                    "url": "https://www.youtube.com/watch?v=zx9d48Nlmyg"
+                }
+            ]
         },
         {
             "name": "Back Mount",
-            "description": "A position frequently encountered on the way to Knee Mount or Front Mount"
-        },
-        {
-            "name": "Front Mount",
-            "description": "A position frequently encountered on the way to Knee Mount or Front Mount"
-        },
-        {
-            "name": "Front Mount",
-            "description": "A position frequently encountered on the way to Knee Mount or Front Mount"
+            "description": "This position is very dangerous for the grappler getting mounted, especially if the mounted grappler is face-down and/or extended. Also called back control. The mounting grappler typically controls the mounted grappler's legs with hooked feet wrapped around the torso of the mounted grappler from behind. The arms of the mounting grappler are free to attack chokes and control the mounted grappler.",
+            "escapes": [{
+                    "description": "If the the mounted grappler can get his/her shoulders to the mat, then he/she will essentially be in the full mount position, a vast improvement to back mount.",
+                    "url": "https://www.youtube.com/watch?v=UtkxKvdxiNY"
+                },
+                {
+                    "description": "An ankle lock can be done if the mounting grappler crosses his/her feet.",
+                    "url": "https://www.youtube.com/watch?v=8bWtQsbIKdI"
+                }
+            ]
         }
     ]
 }
